@@ -1,0 +1,36 @@
+* {
+    margin:0;
+    padding: 0;
+}
+body {
+    text-align: center;
+    width: 100%;
+}
+
+h1 {
+    margin-top: 3rem;
+}
+
+#selection {
+    border: 2px solid black;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin:auto;
+    margin-top: 2rem;
+}
+select {
+    margin-top: 2rem;
+    width: 80%;
+    height: 2rem;
+}
+
+p {
+    margin-top: 1rem;
+}
+#voir {
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
